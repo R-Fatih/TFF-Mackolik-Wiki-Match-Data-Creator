@@ -1,0 +1,1 @@
+https://query.wikidata.org/sparql?query=SELECT%20%3Fitem%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP7402%20"6915"%20.%0A%7D&format=json
